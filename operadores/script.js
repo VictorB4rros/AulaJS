@@ -1,0 +1,12 @@
+const x = "Maria";
+const y = "Maria";
+const a = new String("Maria");
+const b = new String("Maria");
+console.log(`const x = "Maria"`);
+console.log(`const y = "Maria"`);
+console.log(`const a = new String("Maria")`);
+console.log(`const b = new String("Maria"`);
+console.log(`x === y: ${x === y}`);
+console.log(`a === b: ${a === b}`);
+console.log(`typeof x: ${typeof x}`);
+console.log(`typeof a: ${typeof a}`);
