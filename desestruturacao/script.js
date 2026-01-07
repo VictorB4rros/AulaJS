@@ -29,7 +29,7 @@ function subTotal(item) {
     return item.price * item.quantity;
 }
 
-console.log(subTotal(obj.items[1]));
+console.log(subTotal1(obj.items[1]));
 
 // Com desestruturação
 
